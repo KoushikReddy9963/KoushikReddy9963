@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Y SAI KOUSHIK REDDY</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Projects of my internships**
-
-- 🌱 I’m currently learning **On Next.JS**
+- 🌱 I’m currently learning **On Backend Technologies**
 
 - 👯 I’m looking to collaborate on **Full stack web apps**
 
