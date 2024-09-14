@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yennamkoushikreddy1234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d6s1im9VJY0YMNm6nujKE0HIMTIBcyFS/view?usp=sharing](My Resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1d6s1im9VJY0YMNm6nujKE0HIMTIBcyFS/view?usp=sharing] (My Resume)
 
 - ⚡ Fun fact **It's all about binary 0's and 1's**
 
