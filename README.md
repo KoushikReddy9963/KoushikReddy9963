@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **It's all about binary 0's and 1's**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
