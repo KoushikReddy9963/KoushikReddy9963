@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack web apps**
 
-- 📫 How to reach me **yennamkoushikreddy1234@gmail.com**
+- 📫 How to reach me **koushikreddyys.dev@gmail.com**
 
 - ⚡ Fun fact **It's all about binary 0's and 1's**
 
